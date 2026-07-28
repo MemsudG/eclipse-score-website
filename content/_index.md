@@ -248,6 +248,24 @@ extra_scripts:
               <div class="owl-carousel news-slider">
                 <!-- ========== Begin Card ========== -->
                 <div class="card">
+                  <div class="card-body p-0 py-4">
+                    <h4 class="title mb-2">Eclipse S-CORE has reached release gate v0.8!</h4>
+                    <p class="desc">
+                      v0.8 marks a project-wide commitment to complete, reviewed requirements, architecture documentation, and safety artifacts on the path to a safety-certifiable v1.0.
+                    </p>
+                  </div>
+                  <div class="card-actions">
+                    <a class="learn-more" href="articles.html" rel="noopener noreferrer">Learn More
+                      <div class="icon">
+                        <img src="images/icons/right-arrow.svg" alt="" />
+                      </div>
+                    </a>
+                  </div>
+                </div>
+                <!-- ========== End Card ========== -->
+
+                <!-- ========== Begin Card ========== -->
+                <div class="card">
                   <div class="card-img">
                     <img src="images/home/2026-02-23_s-corev060_milestone_architecture.jpg" alt="" />
                   </div>
@@ -270,27 +288,6 @@ extra_scripts:
                 <!-- ========== End Card ========== -->
                 <div class="card">
                   <div class="card-img">
-                    <img src="images/home/S_CORE_0_5.png" alt="" />
-                  </div>
-                  <div class="card-body p-0 py-4">
-                    <h4 class="title mb-2">Coming soon: Eclipse S-CORE 0.5</h4>
-                    <p class="desc">
-                      The automotive industry’s first open, safety-ready software stack is almost here. <br>
-                      Eclipse S-CORE brings the community one step closer to a shared foundation for software-defined vehicles.
-                    </p>
-                    <h4 class="title mb-2">Eclipse S-CORE: <br>
-                      Open by Choice. Safe by Design.</h4>
-                  </div>
-                  <div class="card-actions">
-                    <a class="learn-more" href="articles.html" rel="noopener noreferrer">Learn More
-                      <div class="icon">
-                        <img src="images/icons/right-arrow.svg" alt="" />
-                      </div>
-                    </a>
-                  </div>
-                </div>
-                <div class="card">
-                  <div class="card-img">
                     <img src="images/icons/QC joins.png" alt="" />
                   </div>
                   <div class="card-body p-0 py-4">
@@ -301,24 +298,6 @@ extra_scripts:
                   </div>
                   <div class="card-actions">
                     <a class="learn-more" href="https://eclipse.dev/score/press_releases.html" target="_blank" rel="noopener noreferrer">Learn More
-                      <div class="icon">
-                        <img src="images/icons/right-arrow.svg" alt="" />
-                      </div>
-                    </a>
-                  </div>
-                </div>
-                <div class="card">
-                  <div class="card-img">
-                    <img src="images/news/EclipseMeetupJapan.jfif" alt="" />
-                  </div>
-                  <div class="card-body p-0 py-4">
-                    <h4 class="title mb-2">Eclipse Community Meetup, Japan/ Yokohama</h4>
-                    <p class="desc">
-                      Introduction and update about recent S-CORE developments.
-                    </p>
-                  </div>
-                  <div class="card-actions">
-                    <a class="learn-more" href="https://www.eventbrite.com/e/eclipse-sdv-community-meetup-japan-co-hosted-by-bosch-group-tickets-1540218427779" target="_blank" rel="noopener noreferrer">Learn More
                       <div class="icon">
                         <img src="images/icons/right-arrow.svg" alt="" />
                       </div>

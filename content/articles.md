@@ -66,6 +66,30 @@ breadcrumb_html: |
 
             <div class="col-12 col-xl-8 gap-3 mt-0">
               <div class="d-flex flex-column gap-3">
+
+<!-- ========== START: S-CORE v0.8 Release Gate News ========== -->
+<div class="main-blog-item-card d-flex flex-column gap-3">
+  <div class="blog-item-content">
+    <div class="top-pick-date d-flex align-items-center gap-2 mb-2">
+      <span class="date">July 28, 2026</span>
+    </div>
+    <h2 class="h2 mb-3">
+      Eclipse S-CORE has reached release gate v0.8!
+    </h2>
+    <div class="card-text mb-4" markdown="1">
+<p>This milestone raises the bar for what every module in scope for v1.0 has to demonstrate: complete, reviewed requirements and architecture documentation, including the safety artifacts that some modules had previously been able to defer. Meeting that bar is a multi-release effort, and v0.8 marks the point where the members committed to it project-wide.</p>
+
+<p>It is important to note that release gate v0.8 remains within QM (quality-managed) status. It is a structured step on the roadmap toward a safety-certifiable v1.0, not the certification itself.</p>
+
+<p>The project's trajectory toward v1.0 is defined by exactly this kind of rigor: building the documented evidence that safety-critical use requires, one release gate at a time, rather than asserting it upfront.</p>
+
+<p>The current status of all modules across each process area is tracked on the public roadmap page. [Link: <a href="https://eclipse-score.github.io/score/main/score_releases/index.html#releases" target="_blank" rel="noopener noreferrer">eclipse-score.github.io roadmap</a>]</p>
+
+<p>Interested in contributing to what comes next? Visit our Join Us page to get involved. [Link: <a href="https://eclipse.dev/score/training-modules.html" target="_blank" rel="noopener noreferrer">eclipse.dev/score/training-modules.html</a>]</p>
+    </div>
+  </div>
+</div>
+<!-- ========== END: S-CORE v0.8 Release Gate News ========== -->
               
 <!-- ========== START: S-CORE 0.7.0 Release Card (English Version) ========== -->
 <div class="main-blog-item-card d-flex flex-column gap-3">
@@ -264,40 +288,6 @@ breadcrumb_html: |
   </div>
 </div>
 <!-- ========== END: S-CORE 0.6.0 Release Card (English Version) ========== -->
-
-                <div class="main-blog-item-card d-flex flex-column gap-3">
-                  <div
-                    class="blog-img d-flex align-items-center justify-content-center"
-                  >
-                    <img src="images/news/s-core_05_release_teaser.png" alt="" />
-                  </div>
-                  <div class="blog-item-content">
-                    <div
-                      class="top-pick-date d-flex align-items-center gap-2 mb-2"
-                    >
-                      <span class="icon d-flex align-items-center">
-                        <img src="images/icons/calendar.svg" alt="" />
-                      </span>
-                      <span class="date">Nov 6th, 2025</span>
-                    </div>
-                    <h2 class="h2 mb-3">
-                      Eclipse S-CORE 0.5 – What’s inside the first public release.
-                    </h2>
-                    <p>
-                      Source: Eclipse SDV WG Linkedin <br/><br/>
-                    </p>
-                    <p>
-                      The first version of Eclipse S-CORE (Safe Open Vehicle Core) lays the groundwork for open, safety-ready automotive software.<br/>
-                      
-                    </p>
-                    <a
-                      class="read-more btn btn-primary main-primary mt-4 d-inline-block text-center"
-                      href="https://www.linkedin.com/posts/software-defined-vehicle_s-core-05-release-activity-7392145693861363712-JWqw" target="_blank"
-                    >
-                      Read More and Discuss
-                    </a>
-                  </div>
-                </div>
                 <div class="main-blog-item-card d-flex flex-column gap-3">
                   <div
                     class="blog-img d-flex align-items-center justify-content-center"
