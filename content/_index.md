@@ -253,10 +253,7 @@ extra_scripts:
                     <p class="desc">
                       This milestone raises the bar for what every module in scope for v1.0 has to demonstrate: complete, reviewed requirements and architecture documentation, including the safety artifacts that some modules had previously been able to defer. Meeting that bar is a multi-release effort, and v0.8 marks the point where the members committed to it project-wide.
                       <br />
-                      <br />
-                      The current status of all modules across each process area is tracked on the public roadmap page.
-                      <br />
-                      <br />
+                      <br />                      
                       Interested in contributing to what comes next? Visit our Join Us page to get involved.
                       <br />
                       <a href="https://eclipse.dev/score/training-modules.html" target="_blank" rel="noopener noreferrer">Join Us</a>
