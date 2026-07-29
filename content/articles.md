@@ -56,13 +56,6 @@ breadcrumb_html: |
       >
         <div class="container">
           <div class="row w-100 g-4">
-            
-            <!-- Dynamische Event-Datenbank -->
-            <efsc-collection pagesize="2" autoscroll="true">
-              <efsc-event-filters></efsc-event-filters>
-              <efsc-event-list publishtarget="sdv"></efsc-event-list>
-              <efsc-pagination maxvisible="5" justify="center"></efsc-pagination>
-            </efsc-collection>
 
             <div class="col-12 col-xl-8 gap-3 mt-0">
               <div class="d-flex flex-column gap-3">

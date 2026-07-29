@@ -50,7 +50,7 @@ breadcrumb_html: |
                 <a class="nav-link" href="press_releases.html">Press Releases</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="articles.html">Articles & Events</a>
+                <a class="nav-link" href="articles.html">Articles & News</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link active" href="townhalls.html">Townhalls</a>
