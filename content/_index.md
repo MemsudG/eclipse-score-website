@@ -249,6 +249,32 @@ extra_scripts:
                 <!-- ========== Begin Card ========== -->
                 <div class="card">
                   <div class="card-body p-0 py-4">
+                    <h4 class="title mb-2">The Eclipse S-CORE Engagement Program is now live!</h4>
+                    <p class="desc">
+                      To recognize and value all types of contributions to Eclipse S-CORE, we have launched the Eclipse S-CORE Engagement Program.
+                      <br />
+                      <br />
+                      You are welcome to apply for <strong>Platinum, Gold</strong>, or <strong>Silver</strong> level, depending on the nature of your contribution.
+                      <br />
+                      <br />
+                      More information about the contribution levels and the Eclipse S-CORE Engagement Program is available here:
+                      <br />
+                      <a href="https://eclipsesdv.org/platform-council/" target="_blank" rel="noopener noreferrer">https://eclipsesdv.org/platform-council/</a>
+                    </p>
+                  </div>
+                  <div class="card-actions">
+                    <a class="learn-more" href="https://eclipsesdv.org/platform-council/" target="_blank" rel="noopener noreferrer">Learn More
+                      <div class="icon">
+                        <img src="images/icons/right-arrow.svg" alt="" />
+                      </div>
+                    </a>
+                  </div>
+                </div>
+                <!-- ========== End Card ========== -->
+
+                <!-- ========== Begin Card ========== -->
+                <div class="card">
+                  <div class="card-body p-0 py-4">
                     <h4 class="title mb-2">Eclipse S-CORE has reached release gate v0.8!</h4>
                     <p class="desc">
                       This milestone raises the bar for what every module in scope for v1.0 has to demonstrate: complete, reviewed requirements and architecture documentation, including the safety artifacts that some modules had previously been able to defer. Meeting that bar is a multi-release effort, and v0.8 marks the point where the members committed to it project-wide.
