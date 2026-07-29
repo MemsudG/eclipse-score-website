@@ -36,7 +36,7 @@ breadcrumb_html: |
           <div class="nav-tabs-wrapper">
             <ul class="nav nav-tabs">
               <li class="nav-item">
-                <a class="nav-link" href="news.html">Conferences</a>
+                <a class="nav-link" href="news.html">Events</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="press_releases.html">Press Releases</a>
