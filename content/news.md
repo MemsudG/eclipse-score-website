@@ -13,6 +13,7 @@ extra_scripts:
   - "js/jquery-3.7.1.min.js"
   - "js/bootstrap.min.js"
   - "js/loading.js"
+  - "js/news-events-labels.js"
 use_shared_header: true
 use_shared_footer: true
 active_nav: "news"
@@ -33,7 +34,7 @@ breadcrumb_html: |
                     class="breadcrumb-item active text-white"
                     aria-current="page"
                   >
-                    Conferences
+                    Events
                   </li>
 ---
 
@@ -43,7 +44,7 @@ breadcrumb_html: |
           <div class="nav-tabs-wrapper">
             <ul class="nav nav-tabs">
               <li class="nav-item">
-                <a class="nav-link active" href="news.html">Conferences</a>
+                <a class="nav-link active" href="news.html">Events</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="press_releases.html">Press Releases</a>
@@ -77,39 +78,8 @@ breadcrumb_html: |
               <div class="d-flex flex-column gap-3">
                 
                 <div class="main-blog-item-card d-flex flex-column gap-3">
-                    <h5 class="h5 fw-semibold mb-3">Upcoming Conferences</h5>
-                  
-                  <!-- BESTEHENDER UPCOMING EVENT: OCX 2026 -->
-                  <div class="main-blog-item-card d-flex flex-column gap-3">
-                    <div class="blog-img d-flex align-items-center justify-content-center">
-                      <img src="images/news/OCX26.png" alt="" />
-                    </div>
-                    <div class="blog-item-content">
-                      <div
-                        class="top-pick-date d-flex align-items-center gap-2 mb-2"
-                      >
-                        <span class="icon d-flex align-items-center">
-                          <img src="images/icons/calendar.svg" alt="" />
-                        </span>
-                        <span class="date">21-23 Apr, 2026</span>
-                      </div>
-                      <h2 class="h2 mb-3">
-                        OCX 2026 | Open Community Experience, <br> Brussels, Belgium
-                      </h2>
-                      <p>
-                        Presenter: Björn Reistel <br>
-                        Topic: S-CORE | Background, Status and Insights to S-CORE 0.5 "Certifiable"
-                      </p>
-                      <a
-                        class="read-more btn btn-primary main-primary mt-4 d-inline-block text-center"
-                        href="https://www.ocxconf.org/event/2026/summary"
-                      >
-                        Read More
-                      </a>
-                    </div>
-                  </div>
-                      
-                </div> <!-- /main-blog-item-card for Upcoming Conferences -->
+                    <h5 class="h5 fw-semibold mb-3">Upcoming Events (other than Eclipse)</h5>
+                  </div> <!-- /main-blog-item-card for Upcoming Events (other than Eclipse) -->
               </div>
               <div class="text-center mt-3">
                 <a
@@ -124,8 +94,30 @@ breadcrumb_html: |
               <div class="main-search-top-picks-card d-flex flex-column gap-4">
                
                 <div class="top-picks-container">
-                  <h5 class="h5 fw-semibold mb-3">Previous Conferences</h5>
+                  <h5 class="h5 fw-semibold mb-3">Past Events (other than Eclipse)</h5>
                   <aside class="top-picks-our-blogs">
+                    <!-- MOVED EVENT: OCX 2026 -->
+                    <a href="https://www.ocxconf.org/event/2026/summary"
+                    class="top-pick-item d-flex align-items-start gap-3" target="_blank" rel="noopener noreferrer">
+                    <div class="top-pick-img">
+                      <img src="images/news/OCX26.png" alt="OCX 2026" />
+                    </div>
+                    <div class="top-pick-content">
+                      <div
+                        class="top-pick-date d-flex align-items-center gap-2 mb-2"
+                      >
+                        <span class="icon d-flex align-items-center">
+                          <img src="images/icons/calendar.svg" alt="" />
+                        </span>
+                        <span class="date">21-23 Apr, 2026</span>
+                      </div>
+                      <h3>OCX 2026 | Open Community Experience, <br> Brussels, Belgium</h3>
+                      <p class="text-muted">
+                        Presenter: Björn Reistel <br>
+                        Topic: S-CORE | Background, Status and Insights to S-CORE 0.5 "Certifiable"
+                      </p>
+                    </div>
+                  </a>
                     <!-- MOVED EVENT: Open Chain and Friends in Stuttgart -->
                     <a href="https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026"
                     class="top-pick-item d-flex align-items-start gap-3" target="_blank" rel="noopener noreferrer">

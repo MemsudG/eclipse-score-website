@@ -99,7 +99,7 @@ extra_scripts:
                 </h2>
                   
                   <div class="cta-buttons d-flex flex-wrap gap-2">
-                    <a href="news.html" class="btn btn-outline-primary button secondary">Upcoming Events</a>
+                    <a href="news.html" class="btn btn-outline-primary button secondary">Upcoming Eclipse Events</a>
                     <a href="training-modules.html" class="btn btn-outline-primary button secondary">Get Involved</a>
                     <a href="https://github.com/eclipse-score" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary button tertiary">Visit Our Github</a>
                   </div>
@@ -269,28 +269,6 @@ extra_scripts:
                 </div>
                 <!-- ========== End Card ========== -->
 
-                <!-- ========== Begin Card ========== -->
-                <div class="card">
-                  <div class="card-img">
-                    <img src="images/home/2026-02-23_s-corev060_milestone_architecture.jpg" alt="" />
-                  </div>
-                  <div class="card-body p-0 py-4">
-                    <h4 class="title mb-2">Eclipse S-CORE v0.6.0 Released (Revoked)</h4>
-                    <p class="desc">
-                      We're excited to announce the third milestone release of Eclipse S-CORE (v0.6.0), the open-source automotive middleware platform developed within the Eclipse SDV Working Group!
-                    </p>
-                    <h4 class="title mb-2">Eclipse S-CORE: <br>
-                      Open by Choice. Safe by Design.</h4>
-                  </div>
-                  <div class="card-actions">
-                    <a class="learn-more" href="articles.html" rel="noopener noreferrer">Learn More
-                      <div class="icon">
-                        <img src="images/icons/right-arrow.svg" alt="" />
-                      </div>
-                    </a>
-                  </div>
-                </div>
-                <!-- ========== End Card ========== -->
                 <div class="card">
                   <div class="card-img">
                     <img src="images/icons/QC joins.png" alt="" />
