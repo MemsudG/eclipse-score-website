@@ -251,13 +251,15 @@ extra_scripts:
                   <div class="card-body p-0 py-4">
                     <h4 class="title mb-2">The Eclipse S-CORE Engagement Program is now live!</h4>
                     <p class="desc">
-                      To recognize and value all types of contributions to Eclipse S-CORE, we have launched the Eclipse S-CORE Engagement Program.
+                      To recognize and value all types of contributions to
+                      Eclipse S-CORE, we have launched the Eclipse S-CORE Engagement Program.
                       <br />
                       <br />
-                      You are welcome to apply for <strong>Platinum, Gold</strong>, or <strong>Silver</strong> level, depending on the nature of your contribution.
+                      You are welcome to apply for <strong>Platinum, Gold</strong>,
+                      or <strong>Silver</strong> level, depending on the nature of your contribution.
                       <br />
                       <br />
-                      More information about the contribution levels and the Eclipse S-CORE Engagement Program is available here:
+                      <span style="font-weight: 800 !important;">More Information</span> about the contribution levels and the Eclipse S-CORE Engagement Program is available on <span style="font-weight: 800 !important;">X-CORE Platform Council website</span>:
                       <br />
                       <a href="https://eclipsesdv.org/platform-council/" target="_blank" rel="noopener noreferrer">https://eclipsesdv.org/platform-council/</a>
                     </p>
@@ -332,10 +334,13 @@ extra_scripts:
             <h2 class="h2">S-CORE In A Nutshell</h2>
           </div>
           <div class="esc-content">
-            <h4 class="h4 fw-bold">Together...</h4>
-            <p>S-CORE began in 2024 with five initial members:
-              Accenture, BMW, ETAS, Mercedes-Benz, and Qorix – “the coalition of the willing”.<br />
-              Since then, both active participation and global interest have grown significantly.</p>
+            <p class="h3 fw-bold">The open-source foundation for the <em>Software Defined Vehicle.</em></p>
+            <p>S-CORE is the industry's
+              answer to a simple question: why does every manufacturer build the same
+              software stack separately? We build it together - open, modular, and
+              production-ready from day one.<br />
+              <br />
+              <strong>FOUNDED IN 2024 BY</strong> Accenture, BMW, ETAS, Mercedes-Benz, Qorix + more OEMs, Tiers & Suppliers</p>
             <div class="row g-4 justify-content-center mb-5">
               <div class="col-12 col-md-6 col-xl-3">
                 <div class="main-white-card nutshell-card d-flex align-items-center justify-content-center flex-column gap-3">
@@ -370,12 +375,20 @@ extra_scripts:
                 </div>
               </div>
             </div>
-            <h4 class="h4 fw-bold">...we´re shaping an open-source and code-based SW-platform...</h4>
-            <p>S-CORE solves the requirements of a future SDV with a collaborative, open, and modular approach.
-              Developed by and for the industry, it delivers a robust core architecture that reduces integration effort,
-              enhances safety, and accelerates development. <br />
-              Rather than fostering competition through proprietary,
-              stacks, S-CORE enables collaboration through standardisation.</p>
+            <p class="h3 fw-bold">Collaboration instead of <em>duplicated development.</em></p>
+            <p>S-CORE creates a shared
+              software stack - spanning OS abstraction, middleware, and application-level
+              services. Instead of proprietary stacks built in isolation, the industry
+              develops together and focuses on what truly differentiates: the vehicle
+              experience.</p>
+            <p class="h5 fw-bold mt-4 mb-2">Open Source</p>
+            <p>Fully transparent and community-driven. No vendor lock-ins, no hidden dependencies.</p>
+            <p class="h5 fw-bold mt-4 mb-2">Modular & extensible</p>
+            <p>Components can be deployed independently. Every member integrates what they need - and
+              contributes back what they improve.</p>
+            <p class="h5 fw-bold mt-4 mb-2">Code-First</p>
+            <p>No paper standard. S-CORE is executable code - with tests, a CI pipeline, and reference
+              implementations.</p>
             <div class="row g-4 justify-content-center mb-5">
               <div class="col-12 col-md-6 col-xl-4">
                 <div class="main-white-card nutshell-card d-flex align-items-center justify-content-center flex-column gap-3">
@@ -401,13 +414,12 @@ extra_scripts:
                 </div>
               </div>
             </div>
-            <h4 class="h4 fw-bold">...for "dynamic core" components with strict requirements of a future SDV.</h4>
-            <p>
-              S-CORE bridges the OS–application gap and is being developed as a modular,
-              standards-oriented middleware. The goal: enable predictable, safe, and reusable execution
-              environments across diverse hardware and ECU types – without prescribing a fixed implementation.<br />
-              Its architecture is designed for safety-critical contexts – especially ADAS, Body, and Chassis – and supports compliance with ISO 26262 and ISO/SAE 21434.
-            </p>
+            <p class="h3 fw-bold">A complete <em>open-source software stack.</em></p>
+            <p>S-CORE covers the full
+              vertical - from OS abstraction and middleware up to application-level services.
+              As a modular, standards-oriented platform, it enables predictable, safe, and
+              reusable software across diverse hardware and ECU types, with the Dynamic Core
+              as its safety-critical heart.</p>
             <div class="row g-4 justify-content-center">
               <div class="col-12 col-md-6 col-xl-3">
                 <div class="main-white-card nutshell-card d-flex align-items-center justify-content-center flex-column gap-3">
